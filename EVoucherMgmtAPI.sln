@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVoucherMgmtAPI", "EVoucherMgmtAPI\EVoucherMgmtAPI.csproj", "{61504D4B-517C-4E51-963D-15C667D56D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61504D4B-517C-4E51-963D-15C667D56D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61504D4B-517C-4E51-963D-15C667D56D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61504D4B-517C-4E51-963D-15C667D56D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61504D4B-517C-4E51-963D-15C667D56D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {239759E3-72B6-4C26-B8E7-43D3C96CCA3B}
+	EndGlobalSection
+EndGlobal
